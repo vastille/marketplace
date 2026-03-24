@@ -1,0 +1,13 @@
+{
+  "name": "vastille",
+  "owner": {
+    "name": "Matt LeMay"
+  },
+  "plugins": [
+    {
+      "name": "vastille-source",
+      "source": "./plugins/vastille-source",
+      "description": "Agentic lower-middle market sourcing"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vastille-source": {
+      "type": "http",
+      "url": "https://brugge.ai/source/mcp"
+    }
+  }
+}
